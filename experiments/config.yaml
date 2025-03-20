@@ -1,0 +1,18 @@
+final_fitness: 0.4037698217475585
+protocol_parameters:
+  deception:
+  - 0.9093806129051147
+  - 0.7521238819932932
+  - 0.985321192494256
+  encryption:
+  - 0.9418591706943968
+  - 0.9354613653532939
+  - 0.9792295075978172
+  routing:
+  - 0.43960669926120355
+  - 0.21419938368787272
+  - 0.8579162907369168
+simulation_details:
+  dummy_duration: 1000
+  num_nodes: 50
+timestamp: main.py

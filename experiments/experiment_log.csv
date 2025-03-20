@@ -1,0 +1,4 @@
+run_id,generation,best_fitness,notes
+1,1,0.567,Initial generation
+1,25,0.873,Mid evolution
+1,50,0.921,Final generation
